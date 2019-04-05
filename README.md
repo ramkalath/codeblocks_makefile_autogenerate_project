@@ -1,6 +1,6 @@
 if you are using Ubuntu 18.04 or any other version, the code needs some modifications.
 
-Firstly, whereever you find '.codeblocks' change it to .config/codeblocks
+Firstly, wherever you find '.codeblocks' change it to .config/codeblocks (if its not there in .config/codeblocks, you need to find the path where codeblocks stores the default.conf file. To locate it do "sudo updatedb" and "locate default.conf").
 
 Here are the places you need to change it
 1) In the pdf file codeblocks_setup.pdf
